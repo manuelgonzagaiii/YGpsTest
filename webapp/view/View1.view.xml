@@ -1,0 +1,23 @@
+<mvc:View controllerName="com.ugl.ygpstest.YGpsTest.controller.View1" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core"
+          xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+          xmlns="sap.m">
+    <Shell id="shell">
+        <App id="app">
+            <pages>
+                <Page id="page" title="{i18n>title}">
+                    <content>
+                        <l:VerticalLayout class="sapUiContentPadding" width="100%">
+                            <Button text="Get GPS" press="onPress"/>
+                            <Label text="GPS Accuracy" labelFor="accuracy"/>
+                            <Input id="accuracy" editable="false"/>
+                            <Label text="GPS Latitude" labelFor="latitude"/>
+                            <Input id="latitude" editable="false"/>
+                            <Label text="GPS Longitude" labelFor="longitude"/>
+                            <Input id="longitude" editable="false"/>
+                        </l:VerticalLayout>
+                    </content>
+                </Page>
+            </pages>
+        </App>
+    </Shell>
+</mvc:View>
