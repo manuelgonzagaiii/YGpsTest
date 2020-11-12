@@ -14,5 +14,9 @@
       "@sap/ui5-builder-webide-extension"
     ]
   },
-  "private": "true"
+  "private": "true",
+  "dependencies": {
+    "exif-js": "^2.3.0",
+    "exifreader": "^3.12.3"
+  }
 }

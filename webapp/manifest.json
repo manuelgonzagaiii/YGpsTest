@@ -58,11 +58,22 @@
 				"settings": {
 					"bundleName": "com.ugl.ygpstest.YGpsTest.i18n.i18n"
 				}
+			},
+			"": {
+				"type": "sap.ui.model.json.JSONModel",
+				"uri": "model/PhotoMetadata.json"
+			},
+			"img": {
+				"type": "sap.ui.model.json.JSONModel",
+				"uri": "model/image.json"
 			}
 		},
 		"resources": {
 			"css": [{
 				"uri": "css/style.css"
+			}],
+			"js": [{
+				"uri": "thirdparty/exifreader.js"
 			}]
 		},
 		"routing": {
