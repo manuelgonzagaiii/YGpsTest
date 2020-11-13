@@ -39,13 +39,6 @@ sap.ui.define([
                 var vDescription;
                 var sPhotoMedata;
                 try {
-                    var tags = ExifReader.load(event.target.result);
-
-                    // The MakerNote tag can be really large. Remove it to lower
-                    // memory usage if you're parsing a lot of files and saving the
-                    // tags.
-                    delete tags['MakerNote'];
-
                     var oJSONModel = this.getView().getModel();
                     var oData = oJSONModel.getData();
                     oData.PhotoMetadata = [];
@@ -62,6 +55,12 @@ sap.ui.define([
                     var oMetaTable = this.getView().byId("metaTable");
                     oMetaTable.getModel().refresh(true);
 
+                    var tags = ExifReader.load(event.target.result);
+
+                    // The MakerNote tag can be really large. Remove it to lower
+                    // memory usage if you're parsing a lot of files and saving the
+                    // tags.
+                    delete tags['MakerNote'];
                     for (name in tags) {
                         vDescription = this.getDescription(tags[name]);
                         if (vDescription !== undefined) {
