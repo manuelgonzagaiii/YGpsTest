@@ -19,3 +19,5 @@ mergedManifestDescriptor.json
 APIExternalProducer.js
 .*/APIExternalProducer.js
 /dist
+
+/dist/
