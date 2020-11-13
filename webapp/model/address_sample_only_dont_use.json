@@ -1,0 +1,629 @@
+{
+  "plus_code" : {
+    "compound_code" : "5655+H6 North Sydney NSW, Australia",
+    "global_code" : "4RRH5655+H6"
+  },
+  "results" : [
+    {
+      "address_components" : [
+        {
+          "long_name" : "North Sydney Station, Blue St, Stand E",
+          "short_name" : "North Sydney Station, Blue St, Stand E",
+          "types" : [ "establishment", "point_of_interest", "transit_station" ]
+        },
+        {
+          "long_name" : "North Sydney",
+          "short_name" : "North Sydney",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "North Sydney Station, Blue St, Stand E, North Sydney NSW 2060, Australia",
+      "geometry" : {
+        "location" : {
+          "lat" : -33.841084,
+          "lng" : 151.207916
+        },
+        "location_type" : "GEOMETRIC_CENTER",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.83973501970849,
+            "lng" : 151.2092649802915
+          },
+          "southwest" : {
+            "lat" : -33.84243298029149,
+            "lng" : 151.2065670197085
+          }
+        }
+      },
+      "place_id" : "ChIJiaKtD_OuEmsRL-ikaEA8x_4",
+      "plus_code" : {
+        "compound_code" : "5655+H5 North Sydney NSW, Australia",
+        "global_code" : "4RRH5655+H5"
+      },
+      "types" : [ "establishment", "point_of_interest", "transit_station" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "32",
+          "short_name" : "32",
+          "types" : [ "street_number" ]
+        },
+        {
+          "long_name" : "Walker Street",
+          "short_name" : "Walker St",
+          "types" : [ "route" ]
+        },
+        {
+          "long_name" : "North Sydney",
+          "short_name" : "North Sydney",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "32 Walker St, North Sydney NSW 2060, Australia",
+      "geometry" : {
+        "location" : {
+          "lat" : -33.8409548,
+          "lng" : 151.2080721
+        },
+        "location_type" : "ROOFTOP",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.8396058197085,
+            "lng" : 151.2094210802915
+          },
+          "southwest" : {
+            "lat" : -33.84230378029149,
+            "lng" : 151.2067231197085
+          }
+        }
+      },
+      "place_id" : "ChIJ_Ty-HvOuEmsRfqKJaJwo4TE",
+      "plus_code" : {
+        "compound_code" : "5655+J6 North Sydney NSW, Australia",
+        "global_code" : "4RRH5655+J6"
+      },
+      "types" : [ "bar", "establishment", "point_of_interest" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "48",
+          "short_name" : "48",
+          "types" : [ "street_number" ]
+        },
+        {
+          "long_name" : "Blue Street",
+          "short_name" : "Blue St",
+          "types" : [ "route" ]
+        },
+        {
+          "long_name" : "North Sydney",
+          "short_name" : "North Sydney",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "48 Blue St, North Sydney NSW 2060, Australia",
+      "geometry" : {
+        "location" : {
+          "lat" : -33.8408925,
+          "lng" : 151.2079793
+        },
+        "location_type" : "ROOFTOP",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.83954351970851,
+            "lng" : 151.2093282802915
+          },
+          "southwest" : {
+            "lat" : -33.84224148029151,
+            "lng" : 151.2066303197085
+          }
+        }
+      },
+      "place_id" : "ChIJD6xxBfOuEmsRILtZs8690C8",
+      "plus_code" : {
+        "compound_code" : "5655+J5 North Sydney NSW, Australia",
+        "global_code" : "4RRH5655+J5"
+      },
+      "types" : [ "street_address" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "46",
+          "short_name" : "46",
+          "types" : [ "street_number" ]
+        },
+        {
+          "long_name" : "Blue Street",
+          "short_name" : "Blue St",
+          "types" : [ "route" ]
+        },
+        {
+          "long_name" : "North Sydney",
+          "short_name" : "North Sydney",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "46 Blue St, North Sydney NSW 2060, Australia",
+      "geometry" : {
+        "location" : {
+          "lat" : -33.8409842,
+          "lng" : 151.2076786
+        },
+        "location_type" : "RANGE_INTERPOLATED",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.8396352197085,
+            "lng" : 151.2090275802915
+          },
+          "southwest" : {
+            "lat" : -33.8423331802915,
+            "lng" : 151.2063296197085
+          }
+        }
+      },
+      "place_id" : "Eiw0NiBCbHVlIFN0LCBOb3J0aCBTeWRuZXkgTlNXIDIwNjAsIEF1c3RyYWxpYSIaEhgKFAoSCStR_AjzrhJrEd6f6-9gVbRNEC4",
+      "types" : [ "street_address" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "48",
+          "short_name" : "48",
+          "types" : [ "street_number" ]
+        },
+        {
+          "long_name" : "Blue Street",
+          "short_name" : "Blue St",
+          "types" : [ "route" ]
+        },
+        {
+          "long_name" : "North Sydney",
+          "short_name" : "North Sydney",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "48 Blue St, North Sydney NSW 2060, Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -33.8409842,
+            "lng" : 151.20829
+          },
+          "southwest" : {
+            "lat" : -33.8410604,
+            "lng" : 151.2076786
+          }
+        },
+        "location" : {
+          "lat" : -33.8410243,
+          "lng" : 151.207984
+        },
+        "location_type" : "GEOMETRIC_CENTER",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.8396733197085,
+            "lng" : 151.2093332802915
+          },
+          "southwest" : {
+            "lat" : -33.84237128029149,
+            "lng" : 151.2066353197085
+          }
+        }
+      },
+      "place_id" : "ChIJ7bXrD_OuEmsR6HjKLVMaiEo",
+      "types" : [ "route" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "North Sydney",
+          "short_name" : "North Sydney",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        },
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        }
+      ],
+      "formatted_address" : "North Sydney NSW 2060, Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -33.8280792,
+            "lng" : 151.218628
+          },
+          "southwest" : {
+            "lat" : -33.8451533,
+            "lng" : 151.2005425
+          }
+        },
+        "location" : {
+          "lat" : -33.83965,
+          "lng" : 151.20541
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.8280792,
+            "lng" : 151.218628
+          },
+          "southwest" : {
+            "lat" : -33.8451533,
+            "lng" : 151.2005425
+          }
+        }
+      },
+      "place_id" : "ChIJ2b2yeLWvEmsRQMQyFmh9AQU",
+      "types" : [ "locality", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "2060",
+          "short_name" : "2060",
+          "types" : [ "postal_code" ]
+        },
+        {
+          "long_name" : "Himas Platypus",
+          "short_name" : "Himas Platypus",
+          "types" : [ "locality", "political" ]
+        },
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Himas Platypus NSW 2060, Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -33.8280792,
+            "lng" : 151.218628
+          },
+          "southwest" : {
+            "lat" : -33.8506156,
+            "lng" : 151.1928906
+          }
+        },
+        "location" : {
+          "lat" : -33.8401473,
+          "lng" : 151.20733
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.8280792,
+            "lng" : 151.218628
+          },
+          "southwest" : {
+            "lat" : -33.8506156,
+            "lng" : 151.1928906
+          }
+        }
+      },
+      "place_id" : "ChIJ2b2yeLWvEmsRwIu6P2t9ARw",
+      "postcode_localities" : [
+        "Himas Platypus",
+        "Himas Waterhen",
+        "Lavender Bay",
+        "McMahons Point",
+        "North Sydney",
+        "North Sydney Shoppingworld",
+        "Waverton"
+      ],
+      "types" : [ "postal_code" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "North Sydney Council",
+          "short_name" : "North Sydney",
+          "types" : [ "administrative_area_level_2", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "North Sydney, NSW, Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -33.8157511,
+            "lng" : 151.2330224
+          },
+          "southwest" : {
+            "lat" : -33.8526703,
+            "lng" : 151.187352
+          }
+        },
+        "location" : {
+          "lat" : -33.8346929,
+          "lng" : 151.2160726
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.8157511,
+            "lng" : 151.2330224
+          },
+          "southwest" : {
+            "lat" : -33.8526703,
+            "lng" : 151.187352
+          }
+        }
+      },
+      "place_id" : "ChIJs7S7tOyuEmsRpUU5oJ3BdDM",
+      "types" : [ "administrative_area_level_2", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Sydney",
+          "short_name" : "Sydney",
+          "types" : [ "colloquial_area", "locality", "political" ]
+        },
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Sydney NSW, Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -33.5781409,
+            "lng" : 151.3430209
+          },
+          "southwest" : {
+            "lat" : -34.118347,
+            "lng" : 150.5209286
+          }
+        },
+        "location" : {
+          "lat" : -33.8688197,
+          "lng" : 151.2092955
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -33.5781409,
+            "lng" : 151.3430209
+          },
+          "southwest" : {
+            "lat" : -34.118347,
+            "lng" : 150.5209286
+          }
+        }
+      },
+      "place_id" : "ChIJP3Sa8ziYEmsRUKgyFmh9AQM",
+      "types" : [ "colloquial_area", "locality", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "New South Wales",
+          "short_name" : "NSW",
+          "types" : [ "administrative_area_level_1", "political" ]
+        },
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "New South Wales, Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -28.15702,
+            "lng" : 159.1054441
+          },
+          "southwest" : {
+            "lat" : -37.5052801,
+            "lng" : 140.9992793
+          }
+        },
+        "location" : {
+          "lat" : -31.2532183,
+          "lng" : 146.921099
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -28.15702,
+            "lng" : 159.1054441
+          },
+          "southwest" : {
+            "lat" : -37.5052801,
+            "lng" : 140.9992793
+          }
+        }
+      },
+      "place_id" : "ChIJDUte93TLDWsRLZ_EIhGvgBc",
+      "types" : [ "administrative_area_level_1", "political" ]
+    },
+    {
+      "address_components" : [
+        {
+          "long_name" : "Australia",
+          "short_name" : "AU",
+          "types" : [ "country", "political" ]
+        }
+      ],
+      "formatted_address" : "Australia",
+      "geometry" : {
+        "bounds" : {
+          "northeast" : {
+            "lat" : -9.187026399999999,
+            "lng" : 159.2872223
+          },
+          "southwest" : {
+            "lat" : -54.83376579999999,
+            "lng" : 110.9510339
+          }
+        },
+        "location" : {
+          "lat" : -25.274398,
+          "lng" : 133.775136
+        },
+        "location_type" : "APPROXIMATE",
+        "viewport" : {
+          "northeast" : {
+            "lat" : -9.187026399999999,
+            "lng" : 159.2872223
+          },
+          "southwest" : {
+            "lat" : -54.83376579999999,
+            "lng" : 110.9510339
+          }
+        }
+      },
+      "place_id" : "ChIJ38WHZwf9KysRUhNblaFnglM",
+      "types" : [ "country", "political" ]
+    }
+  ],
+  "status" : "OK"
+}

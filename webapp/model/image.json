@@ -1,3 +1,9 @@
 {
-  "photoUrl": ""
+  "photoUrl": "",
+  "photoStreetNumber": "",
+  "photoStreet": "",
+  "photoSuburb": "",
+  "photoState": "",
+  "photoPostalCode": "",
+  "photoCountry": ""
 }

@@ -1,5 +1,11 @@
-<mvc:View controllerName="com.ugl.ygpstest.YGpsTest.controller.View1" xmlns:l="sap.ui.layout" xmlns:core="sap.ui.core"
-	xmlns:u="sap.ui.unified" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<mvc:View controllerName="com.ugl.ygpstest.YGpsTest.controller.View1"
+		  xmlns="sap.m"
+		  xmlns:l="sap.ui.layout"
+		  xmlns:f="sap.ui.layout.form"
+		  xmlns:core="sap.ui.core"
+		  xmlns:u="sap.ui.unified"
+		  xmlns:mvc="sap.ui.core.mvc"
+		  displayBlock="true" >
 	<Shell id="shell">
 		<App id="app">
 			<pages>
@@ -14,6 +20,66 @@
 								icon="sap-icon://add-photo" 
 								tooltip="Add Photo" 
 								change="onChange"/>
+							<VBox class="sapUiSmallMargin">
+								<f:Form id="FormDisplay354"
+										editable="false">
+									<f:title>
+										<core:Title text="Address" />
+									</f:title>
+									<f:layout>
+										<f:ResponsiveGridLayout
+												labelSpanXL="3"
+												labelSpanL="3"
+												labelSpanM="3"
+												labelSpanS="12"
+												adjustLabelSpan="false"
+												emptySpanXL="4"
+												emptySpanL="4"
+												emptySpanM="4"
+												emptySpanS="0"
+												columnsXL="1"
+												columnsL="1"
+												columnsM="1"
+												singleContainerFullSize="false" />
+									</f:layout>
+									<f:formContainers>
+										<f:FormContainer>
+											<f:formElements>
+												<f:FormElement label="Street Number">
+													<f:fields>
+														<Text text="{img>/photoStreetNumber}" id="photoStreetNumber"  />
+													</f:fields>
+												</f:FormElement>
+												<f:FormElement label="Street">
+													<f:fields>
+														<Text text="{img>/photoStreet}" />
+													</f:fields>
+												</f:FormElement>
+												<f:FormElement label="Suburb">
+													<f:fields>
+														<Text text="{img>/photoSuburb}" />
+													</f:fields>
+												</f:FormElement>
+												<f:FormElement label="State">
+													<f:fields>
+														<Text text="{img>/photoState}" />
+													</f:fields>
+												</f:FormElement>
+												<f:FormElement label="Postal Code">
+													<f:fields>
+														<Text text="{img>/photoPostalCode}" />
+													</f:fields>
+												</f:FormElement>
+												<f:FormElement label="Country">
+													<f:fields>
+														<Text text="{img>/photoCountry}" id="photoCountry" />
+													</f:fields>
+												</f:FormElement>
+											</f:formElements>
+										</f:FormContainer>
+									</f:formContainers>
+								</f:Form>
+							</VBox>
 							<Table 
 								id="metaTable" 
 								inset="false" 
